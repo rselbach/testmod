@@ -1,1 +1,1 @@
-module github.com/rselbach/testmod/v2
+module github.com/robteix/testmod/v2
